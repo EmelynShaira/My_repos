@@ -30,3 +30,6 @@ p {
   border-radius: 50%;
   object-fit: cover;
 }
+.date {
+  text-align: right;
+}
